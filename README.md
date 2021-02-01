@@ -24,3 +24,6 @@ Step 4: run the following commands in venv and the project dir
 
 Step 5: go to browser : localhost:8000/api/
 
+## Running in Dev server
+
+I'll be setting up the automation scripts. 
